@@ -12,7 +12,7 @@ endif::[]
 
 ## Envio de Mensagens
 
-== Responda
+== Responda a questão abaixo
 
 1. Qual padrão de projeto pode ser utilizado para resolver este problema?
 
